@@ -2,5 +2,9 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "algs4.jar"
+    ],
+    "java.project.sourcePaths": [
+        ".",
+        "Week 4/Priority Queues"
     ]
 }
